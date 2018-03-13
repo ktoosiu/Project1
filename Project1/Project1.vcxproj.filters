@@ -24,7 +24,7 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\Desktop\screen1.png">
-      <Filter>Resource Files</Filter>
+      <Filter>Source Files</Filter>
     </Image>
   </ItemGroup>
 </Project>
